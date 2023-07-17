@@ -9,3 +9,8 @@ git push -u origin master
 git config --global user.name 'denizcanb'
 git config --global user.email 'basd19@itu.edu.tr'
 git config --global -l 
+
+
+git clone https://github.com/hamitmizrak/git_github_tutorials/ 
+
+git log ==> commitlerimin bilgisini almak için kullanıyorum
