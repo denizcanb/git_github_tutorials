@@ -1,0 +1,11 @@
+
+git init
+git add .
+git commit -m'first commit' 
+git remote add origin https://github.com/denizcanb/git_github_tutorials.git
+git push -u origin master 
+ 
+ 
+git config --global user.name 'denizcanb'
+git config --global user.email 'basd19@itu.edu.tr'
+git config --global -l 
