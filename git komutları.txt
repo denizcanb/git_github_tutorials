@@ -24,3 +24,18 @@ gitignore==> git tarafından takip edilmesini istemediğimiz dosya ve dizinleri 
 --------CHECKOUT----------
 
 checkout: branchler ya da commitler arasında gidip gelmeyi sağlar 
+
+
+-------STASH--------
+
+Dikkattt!!!! :  stash için öncelikle ===>  git add . Yapmalıyız 
+
+git stash:
+git stash pop: 
+git stash apply stash@{0} ===> seçtiğimiz bir stash i çağırmak istersek. 
+git stash drop stash@{0} ===> seçtiğimiz stashleri silmek için. 
+
+-------branch--------
+
+Projede birden fazla kol var olmasını istiyorsak 
+
