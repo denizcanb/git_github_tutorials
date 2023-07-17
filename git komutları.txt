@@ -39,3 +39,4 @@ git stash drop stash@{0} ===> seçtiğimiz stashleri silmek için.
 
 Projede birden fazla kol var olmasını istiyorsak 
 
+Git branch --all 
