@@ -21,3 +21,6 @@ gitignore==> git tarafından takip edilmesini istemediğimiz dosya ve dizinleri 
 
 !DİKKAT: .gitignore mutlaka commitlemeliyim sonrasında takip edilmesini istemediğim dosyaları oraya yazmalıyım. 
 
+--------CHECKOUT----------
+
+checkout: branchler ya da commitler arasında gidip gelmeyi sağlar 
