@@ -16,3 +16,8 @@ git clone https://github.com/hamitmizrak/git_github_tutorials/
 git log ==> commitlerimin bilgisini almak için kullanıyorum
 
 git commit -a -m ==> hem ekleme hem güncelleme 
+
+gitignore==> git tarafından takip edilmesini istemediğimiz dosya ve dizinleri github'a göndermez ve takibini yapmaz 
+
+!DİKKAT: .gitignore mutlaka commitlemeliyim sonrasında takip edilmesini istemediğim dosyaları oraya yazmalıyım. 
+
