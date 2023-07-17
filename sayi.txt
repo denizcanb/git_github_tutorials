@@ -1,0 +1,4 @@
+int sayi=5;
+int sayi2=10;
+int result=sayi1+sayi2;
+
