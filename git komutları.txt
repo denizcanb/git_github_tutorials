@@ -39,8 +39,12 @@ git stash drop stash@{0} ===> seçtiğimiz stashleri silmek için.
 
 Projede birden fazla kol var olmasını istiyorsak 
 
+<<<<<<< HEAD
 Git branch --all 
 
 Diff: iki branch arasındaki farklar ;;;
 
 git diff main backend1 
+=======
+Git branch --all 
+>>>>>>> backend1

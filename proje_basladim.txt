@@ -1,0 +1,7 @@
+psvm
+int sayi;
+var kelime='merhaba'
+asd
+asd
+asdasd
+asd
